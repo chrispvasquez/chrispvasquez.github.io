@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.02d2c8e5.css",
-    "main.js": "/static/js/main.56f76ee4.js",
+    "main.css": "/static/css/main.065c1f9a.css",
+    "main.js": "/static/js/main.9cbc27cd.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/code2.jpg": "/static/media/code2.837f1dcd72da49a0c965.jpg",
     "static/media/code3.jpg": "/static/media/code3.8fe96a51158e309ff45d.jpg",
@@ -10,14 +10,13 @@
     "static/media/BS_CE.png": "/static/media/BS_CE.5a671c8f31d64033439c.png",
     "static/media/BS_CS.png": "/static/media/BS_CS.3940925f4d9de97445c2.png",
     "static/media/lsu_tiger.jpg": "/static/media/lsu_tiger.7403013e5fa64453fdff.jpg",
-    "static/media/bassys3.jpg": "/static/media/bassys3.b0eca7f50e0f44188089.jpg",
     "static/media/CMR_Thesis_Paper.pdf": "/static/media/CMR_Thesis_Paper.161d0092f8572a4fd5d2.pdf",
     "static/media/swan_pic.png": "/static/media/swan_pic.e8448d37fbc9c9fb0839.png",
     "static/media/cmr_gui.png": "/static/media/cmr_gui.ef3e3869fe4fdc884d08.png",
     "static/media/r_logo.png": "/static/media/r_logo.16e8eaa6f7ed06e31a94.png",
     "static/media/voltage_amp.png": "/static/media/voltage_amp.72c258a7b9012c6c1d4e.png",
     "static/media/peng_thesis.jpg": "/static/media/peng_thesis.b347c8a88a53055480f1.jpg",
-    "static/media/RESUME_2022.pdf": "/static/media/RESUME_2022.27a35ac2ea9814650eab.pdf",
+    "static/media/RESUME_2022.pdf": "/static/media/RESUME_2022.4735d477dd4c00e97c2b.pdf",
     "static/media/r_research.png": "/static/media/r_research.ec48f1bc1a4a456fcdae.png",
     "static/media/lgbm.png": "/static/media/lgbm.36eaca31788743fbd7d4.png",
     "static/media/cplusplus_logo.png": "/static/media/cplusplus_logo.64f637357bce0ccc8384.png",
@@ -27,15 +26,16 @@
     "static/media/work_in_progress.png": "/static/media/work_in_progress.1ec63134760aa245d9a3.png",
     "static/media/geauxtrace.png": "/static/media/geauxtrace.a0168f86538a934201a2.png",
     "static/media/csc4402_proj.png": "/static/media/csc4402_proj.380a70cfcf48aaa76443.png",
+    "static/media/arm_logo.png": "/static/media/arm_logo.70d6578cf9fad99cf963.png",
     "static/media/SRP_pic.png": "/static/media/SRP_pic.28a560885a4f7573949a.png",
-    "static/media/huffpuff_ARM.png": "/static/media/huffpuff_ARM.76ab9a40b98bae6c8ad8.png",
+    "static/media/xilinx_logo.png": "/static/media/xilinx_logo.fc2f81bec897b17f7c32.png",
     "index.html": "/index.html",
-    "main.02d2c8e5.css.map": "/static/css/main.02d2c8e5.css.map",
-    "main.56f76ee4.js.map": "/static/js/main.56f76ee4.js.map",
+    "main.065c1f9a.css.map": "/static/css/main.065c1f9a.css.map",
+    "main.9cbc27cd.js.map": "/static/js/main.9cbc27cd.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02d2c8e5.css",
-    "static/js/main.56f76ee4.js"
+    "static/css/main.065c1f9a.css",
+    "static/js/main.9cbc27cd.js"
   ]
 }
