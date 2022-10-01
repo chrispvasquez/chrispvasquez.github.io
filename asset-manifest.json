@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.48df8f9e.css",
-    "main.js": "/static/js/main.b579def5.js",
+    "main.css": "/static/css/main.02d2c8e5.css",
+    "main.js": "/static/js/main.f5ebe772.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/code2.jpg": "/static/media/code2.837f1dcd72da49a0c965.jpg",
     "static/media/code3.jpg": "/static/media/code3.8fe96a51158e309ff45d.jpg",
@@ -17,6 +17,7 @@
     "static/media/r_logo.png": "/static/media/r_logo.16e8eaa6f7ed06e31a94.png",
     "static/media/voltage_amp.png": "/static/media/voltage_amp.72c258a7b9012c6c1d4e.png",
     "static/media/peng_thesis.jpg": "/static/media/peng_thesis.b347c8a88a53055480f1.jpg",
+    "static/media/RESUME_2022.pdf": "/static/media/RESUME_2022.27a35ac2ea9814650eab.pdf",
     "static/media/r_research.png": "/static/media/r_research.ec48f1bc1a4a456fcdae.png",
     "static/media/lgbm.png": "/static/media/lgbm.36eaca31788743fbd7d4.png",
     "static/media/cplusplus_logo.png": "/static/media/cplusplus_logo.64f637357bce0ccc8384.png",
@@ -26,16 +27,15 @@
     "static/media/work_in_progress.png": "/static/media/work_in_progress.1ec63134760aa245d9a3.png",
     "static/media/geauxtrace.png": "/static/media/geauxtrace.a0168f86538a934201a2.png",
     "static/media/csc4402_proj.png": "/static/media/csc4402_proj.380a70cfcf48aaa76443.png",
-    "static/media/RESUME_2022.pdf": "/static/media/RESUME_2022.c26b18d81091296fb733.pdf",
     "static/media/SRP_pic.png": "/static/media/SRP_pic.28a560885a4f7573949a.png",
     "static/media/huffpuff_ARM.png": "/static/media/huffpuff_ARM.76ab9a40b98bae6c8ad8.png",
     "index.html": "/index.html",
-    "main.48df8f9e.css.map": "/static/css/main.48df8f9e.css.map",
-    "main.b579def5.js.map": "/static/js/main.b579def5.js.map",
+    "main.02d2c8e5.css.map": "/static/css/main.02d2c8e5.css.map",
+    "main.f5ebe772.js.map": "/static/js/main.f5ebe772.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48df8f9e.css",
-    "static/js/main.b579def5.js"
+    "static/css/main.02d2c8e5.css",
+    "static/js/main.f5ebe772.js"
   ]
 }
