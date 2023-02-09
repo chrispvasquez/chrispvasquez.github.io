@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.216de06d.css",
-    "main.js": "/static/js/main.a85c38ce.js",
+    "main.js": "/static/js/main.78915c52.js",
     "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
     "static/media/code3.jpg": "/static/media/code3.8fe96a51158e309ff45d.jpg",
     "static/media/ar4cmm_1.png": "/static/media/ar4cmm_1.d815bd9053f76628e63e.png",
@@ -12,11 +12,11 @@
     "static/media/swan_pic.png": "/static/media/swan_pic.e8448d37fbc9c9fb0839.png",
     "static/media/cmr_gui.png": "/static/media/cmr_gui.ef3e3869fe4fdc884d08.png",
     "static/media/r_logo.png": "/static/media/r_logo.16e8eaa6f7ed06e31a94.png",
+    "static/media/RESUME.pdf": "/static/media/RESUME.605ed4aad43415ff0cce.pdf",
     "static/media/voltage_amp.png": "/static/media/voltage_amp.72c258a7b9012c6c1d4e.png",
     "static/media/hololens2.png": "/static/media/hololens2.55c2571c55a35bd4e08b.png",
     "static/media/peng_thesis.jpg": "/static/media/peng_thesis.b347c8a88a53055480f1.jpg",
     "static/media/eng2span_CM.png": "/static/media/eng2span_CM.848cb261fd5a084434b4.png",
-    "static/media/RESUME.pdf": "/static/media/RESUME.94ff979720849b96888a.pdf",
     "static/media/r_research.png": "/static/media/r_research.ec48f1bc1a4a456fcdae.png",
     "static/media/lgbm.png": "/static/media/lgbm.36eaca31788743fbd7d4.png",
     "static/media/cplusplus_logo.png": "/static/media/cplusplus_logo.64f637357bce0ccc8384.png",
@@ -34,11 +34,11 @@
     "static/media/tensorfi2.png": "/static/media/tensorfi2.016ac6d9716e8de94cb9.png",
     "index.html": "/index.html",
     "main.216de06d.css.map": "/static/css/main.216de06d.css.map",
-    "main.a85c38ce.js.map": "/static/js/main.a85c38ce.js.map",
+    "main.78915c52.js.map": "/static/js/main.78915c52.js.map",
     "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.216de06d.css",
-    "static/js/main.a85c38ce.js"
+    "static/js/main.78915c52.js"
   ]
 }
